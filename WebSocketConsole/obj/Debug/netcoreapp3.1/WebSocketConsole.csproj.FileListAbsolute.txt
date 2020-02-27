@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\WebSocketConsole\bin\Debug\netcoreapp3.1\WebSocketConsole.exe
+C:\Users\User\source\repos\WebSocketConsole\bin\Debug\netcoreapp3.1\WebSocketConsole.deps.json
+C:\Users\User\source\repos\WebSocketConsole\bin\Debug\netcoreapp3.1\WebSocketConsole.runtimeconfig.json
+C:\Users\User\source\repos\WebSocketConsole\bin\Debug\netcoreapp3.1\WebSocketConsole.runtimeconfig.dev.json
+C:\Users\User\source\repos\WebSocketConsole\bin\Debug\netcoreapp3.1\WebSocketConsole.dll
+C:\Users\User\source\repos\WebSocketConsole\bin\Debug\netcoreapp3.1\WebSocketConsole.pdb
+C:\Users\User\source\repos\WebSocketConsole\obj\Debug\netcoreapp3.1\WebSocketConsole.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WebSocketConsole\obj\Debug\netcoreapp3.1\WebSocketConsole.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WebSocketConsole\obj\Debug\netcoreapp3.1\WebSocketConsole.AssemblyInfo.cs
+C:\Users\User\source\repos\WebSocketConsole\obj\Debug\netcoreapp3.1\WebSocketConsole.dll
+C:\Users\User\source\repos\WebSocketConsole\obj\Debug\netcoreapp3.1\WebSocketConsole.pdb
